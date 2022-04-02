@@ -1,0 +1,16 @@
+C:\Users\AbdE.Hussien\source\repos\productLine\obj\Debug\net5.0\productLine.csproj.AssemblyReference.cache
+C:\Users\AbdE.Hussien\source\repos\productLine\obj\Debug\net5.0\productLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdE.Hussien\source\repos\productLine\obj\Debug\net5.0\productLine.AssemblyInfoInputs.cache
+C:\Users\AbdE.Hussien\source\repos\productLine\obj\Debug\net5.0\productLine.AssemblyInfo.cs
+C:\Users\AbdE.Hussien\source\repos\productLine\obj\Debug\net5.0\productLine.csproj.CoreCompileInputs.cache
+C:\Users\AbdE.Hussien\source\repos\productLine\bin\Debug\net5.0\productLine.exe
+C:\Users\AbdE.Hussien\source\repos\productLine\bin\Debug\net5.0\productLine.deps.json
+C:\Users\AbdE.Hussien\source\repos\productLine\bin\Debug\net5.0\productLine.runtimeconfig.json
+C:\Users\AbdE.Hussien\source\repos\productLine\bin\Debug\net5.0\productLine.runtimeconfig.dev.json
+C:\Users\AbdE.Hussien\source\repos\productLine\bin\Debug\net5.0\productLine.dll
+C:\Users\AbdE.Hussien\source\repos\productLine\bin\Debug\net5.0\ref\productLine.dll
+C:\Users\AbdE.Hussien\source\repos\productLine\bin\Debug\net5.0\productLine.pdb
+C:\Users\AbdE.Hussien\source\repos\productLine\obj\Debug\net5.0\productLine.dll
+C:\Users\AbdE.Hussien\source\repos\productLine\obj\Debug\net5.0\ref\productLine.dll
+C:\Users\AbdE.Hussien\source\repos\productLine\obj\Debug\net5.0\productLine.pdb
+C:\Users\AbdE.Hussien\source\repos\productLine\obj\Debug\net5.0\productLine.genruntimeconfig.cache
